@@ -1,6 +1,6 @@
-# Fidelys
+![Fidelys Logo](core/static/img/logobranca.png)
 
-![Fidelys Logo](core/static/img/logo.png)
+# Fidelys
 
 Fidelys é um site de consultoria financeira desenvolvido para ajudar pessoas e empresas a organizar suas finanças e atingir suas metas.  
 
@@ -16,3 +16,5 @@ Fidelys é um site de consultoria financeira desenvolvido para ajudar pessoas e 
   - Django
 - **Banco de Dados**:
   - MySQL
+
+> **Lembrete**: Este é um **site demonstrativo**.
