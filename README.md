@@ -1,6 +1,6 @@
 # Fidelys
 
-![Fidelys Logo](static/img/logo.png)
+![Fidelys Logo](core/static/img/logo.png)
 
 Fidelys é um site de consultoria financeira desenvolvido para ajudar pessoas e empresas a organizar suas finanças e atingir suas metas.  
 
