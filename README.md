@@ -20,4 +20,4 @@ Fidelys é um site de consultoria financeira desenvolvido para ajudar pessoas e 
 - **Banco de Dados**:
   - MySQL
 
-> **Lembrete**: Este é um **site demonstrativo**.
+> **Lembrete**: Este é um **site demonstrativo**. Criado pelo Luis Felipe Marques Nascimento
