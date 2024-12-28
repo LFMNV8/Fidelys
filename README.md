@@ -1,5 +1,8 @@
 ![Fidelys Logo](core/static/img/logobranca.png)
 
+https://lfmnv8.pythonanywhere.com/
+
+
 # Fidelys
 
 Fidelys é um site de consultoria financeira desenvolvido para ajudar pessoas e empresas a organizar suas finanças e atingir suas metas.  
